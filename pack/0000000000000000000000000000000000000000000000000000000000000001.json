@@ -1,24 +1,20 @@
 {
   "attributes": [
     {
-      "trait_type": "tile_height",
-      "value": 718
+      "trait_type": "scene",
+      "value": 1
     },
     {
-      "trait_type": "tile_width",
-      "value": 894
+      "trait_type": "tiles_rewarded",
+      "value": 10
     },
     {
-      "trait_type": "center_w",
-      "value": 862.0
-    },
-    {
-      "trait_type": "center_h",
-      "value": 721.0
+      "trait_type": "max_packs",
+      "value": 1200
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 10 tile #5",
-  "external_url": "https://etherscapes.io/scene/1/10",
-  "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000000b.png",
-  "name": "Scene 1 Puzzle 10 tile 5"
+  "description": "EtherScapes puzzle packs contain random puzzle tiles from machine generated scenes. Collect all pieces of a puzzle to earn ESCAPE!",
+  "external_url": "https://etherscapes.io/packs/1",
+  "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/pack/0000000000000000000000000000000000000000000000000000000000000001.png",
+  "name": "EtherScapes puzzle tile pack (scene 1)"
 }
