@@ -1,0 +1,24 @@
+{
+  "attributes": [
+    {
+      "trait_type": "tile_height",
+      "value": 560
+    },
+    {
+      "trait_type": "tile_width",
+      "value": 666
+    },
+    {
+      "trait_type": "center_w",
+      "value": 1587.0
+    },
+    {
+      "trait_type": "center_h",
+      "value": 281.0
+    }
+  ],
+  "description": "EtherScape Scene 1, Puzzle 2 tile #3",
+  "external_url": "https://etherscapes.io/scene/1/2",
+  "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000003.png",
+  "name": "Scene 1 Puzzle 2 tile 3"
+}

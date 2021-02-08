@@ -1,0 +1,24 @@
+{
+  "attributes": [
+    {
+      "trait_type": "tile_height",
+      "value": 740
+    },
+    {
+      "trait_type": "tile_width",
+      "value": 877
+    },
+    {
+      "trait_type": "center_w",
+      "value": 439.5
+    },
+    {
+      "trait_type": "center_h",
+      "value": 710.0
+    }
+  ],
+  "description": "EtherScape Scene 1, Puzzle 27 tile #4",
+  "external_url": "https://etherscapes.io/scene/1/27",
+  "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000001c.png",
+  "name": "Scene 1 Puzzle 27 tile 4"
+}

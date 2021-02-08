@@ -1,0 +1,24 @@
+{
+  "attributes": [
+    {
+      "trait_type": "tile_height",
+      "value": 722
+    },
+    {
+      "trait_type": "tile_width",
+      "value": 698
+    },
+    {
+      "trait_type": "center_w",
+      "value": 961.0
+    },
+    {
+      "trait_type": "center_h",
+      "value": 362.0
+    }
+  ],
+  "description": "EtherScape Scene 1, Puzzle 19 tile #2",
+  "external_url": "https://etherscapes.io/scene/1/19",
+  "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000014.png",
+  "name": "Scene 1 Puzzle 19 tile 2"
+}

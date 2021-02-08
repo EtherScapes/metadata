@@ -1,0 +1,24 @@
+{
+  "attributes": [
+    {
+      "trait_type": "tile_height",
+      "value": 564
+    },
+    {
+      "trait_type": "tile_width",
+      "value": 658
+    },
+    {
+      "trait_type": "center_w",
+      "value": 330.0
+    },
+    {
+      "trait_type": "center_h",
+      "value": 798.0
+    }
+  ],
+  "description": "EtherScape Scene 1, Puzzle 11 tile #6",
+  "external_url": "https://etherscapes.io/scene/1/11",
+  "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000000c.png",
+  "name": "Scene 1 Puzzle 11 tile 6"
+}
