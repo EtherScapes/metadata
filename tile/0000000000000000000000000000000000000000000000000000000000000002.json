@@ -2,19 +2,19 @@
   "attributes": [
     {
       "trait_type": "tile_height",
-      "value": 555
+      "value": 571
     },
     {
       "trait_type": "tile_width",
-      "value": 888
+      "value": 943
     },
     {
       "trait_type": "center_w",
-      "value": 1058.0
+      "value": 915.5
     },
     {
       "trait_type": "center_h",
-      "value": 278.5
+      "value": 286.5
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 1 tile #2",
