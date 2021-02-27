@@ -3,22 +3,22 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 487
+      "value": 645
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 1057
+      "value": 903
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1131.5
+      "value": 1361.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 835.5
+      "value": 663.5
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 8 tile #11",

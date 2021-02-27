@@ -3,22 +3,22 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 636
+      "value": 371
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 1056
+      "value": 681
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1063.0
+      "value": 1578.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 319.0
+      "value": 186.5
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 2 tile #3",

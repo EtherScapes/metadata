@@ -3,22 +3,22 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 435
+      "value": 741
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 987
+      "value": 1539
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1425.5
+      "value": 797.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 218.5
+      "value": 432.5
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 27 tile #4",

@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 284
+      "value": 375
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 707
+      "value": 669
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 354.5
+      "value": 1380.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 937.0
+      "value": 806.5
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 35 tile #15",
+  "description": "EtherScape Scene 1, Puzzle 35 tile #14",
   "external_url": "https://etherscapes.io/scene/1/puzzle/35",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000024.png",
-  "name": "Scene 1 Puzzle 35 tile 15"
+  "name": "Scene 1 Puzzle 35 tile 14"
 }

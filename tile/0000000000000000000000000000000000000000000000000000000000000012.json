@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 367
+      "value": 410
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 626
+      "value": 860
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 929.0
+      "value": 1178.0
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 395.5
+      "value": 317.0
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 17 tile #6",
+  "description": "EtherScape Scene 1, Puzzle 17 tile #7",
   "external_url": "https://etherscapes.io/scene/1/puzzle/17",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000012.png",
-  "name": "Scene 1 Puzzle 17 tile 6"
+  "name": "Scene 1 Puzzle 17 tile 7"
 }

@@ -3,22 +3,22 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 886
+      "value": 455
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 562
+      "value": 913
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1638.0
+      "value": 510.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 636.0
+      "value": 264.5
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 4 tile #5",

@@ -3,22 +3,22 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 886
+      "value": 627
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 562
+      "value": 939
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1638.0
+      "value": 843.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 636.0
+      "value": 411.5
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 28 tile #5",

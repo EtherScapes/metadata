@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 353
+      "value": 572
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 736
+      "value": 1480
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 519.0
+      "value": 816.0
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 902.5
+      "value": 793.0
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 22 tile #14",
+  "description": "EtherScape Scene 1, Puzzle 22 tile #13",
   "external_url": "https://etherscapes.io/scene/1/puzzle/22",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000017.png",
-  "name": "Scene 1 Puzzle 22 tile 14"
+  "name": "Scene 1 Puzzle 22 tile 13"
 }

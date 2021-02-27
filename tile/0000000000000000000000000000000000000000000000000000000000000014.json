@@ -3,22 +3,22 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 558
+      "value": 780
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 731
+      "value": 848
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1200.5
+      "value": 1495.0
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 736.0
+      "value": 689.0
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 19 tile #10",
