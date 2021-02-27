@@ -1,6 +1,28 @@
 {
-  "description": "EtherScape Scene 1, Puzzle 3",
-  "external_url": "https://etherscapes.io/scene/1/3",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "tile_height",
+      "value": 130
+    },
+    {
+      "display_type": "number",
+      "trait_type": "tile_width",
+      "value": 52
+    },
+    {
+      "display_type": "number",
+      "trait_type": "center_w",
+      "value": 27.0
+    },
+    {
+      "display_type": "number",
+      "trait_type": "center_h",
+      "value": 763.0
+    }
+  ],
+  "description": "EtherScape Scene 1, Puzzle 33 tile #13",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/33",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000022.png",
-  "name": "Scene 1 Puzzle 3"
+  "name": "Scene 1 Puzzle 33 tile 13"
 }

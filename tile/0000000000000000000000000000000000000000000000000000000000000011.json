@@ -1,24 +1,28 @@
 {
   "attributes": [
     {
+      "display_type": "number",
       "trait_type": "tile_height",
-      "value": 736
+      "value": 886
     },
     {
+      "display_type": "number",
       "trait_type": "tile_width",
-      "value": 859
+      "value": 562
     },
     {
+      "display_type": "number",
       "trait_type": "center_w",
-      "value": 430.5
+      "value": 1638.0
     },
     {
+      "display_type": "number",
       "trait_type": "center_h",
-      "value": 712.0
+      "value": 636.0
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 16 tile #5",
-  "external_url": "https://etherscapes.io/scene/1/16",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/16",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000011.png",
   "name": "Scene 1 Puzzle 16 tile 5"
 }

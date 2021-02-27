@@ -1,6 +1,28 @@
 {
-  "description": "EtherScape Scene 1, Puzzle 4",
-  "external_url": "https://etherscapes.io/scene/1/4",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "tile_height",
+      "value": 353
+    },
+    {
+      "display_type": "number",
+      "trait_type": "tile_width",
+      "value": 736
+    },
+    {
+      "display_type": "number",
+      "trait_type": "center_w",
+      "value": 519.0
+    },
+    {
+      "display_type": "number",
+      "trait_type": "center_h",
+      "value": 902.5
+    }
+  ],
+  "description": "EtherScape Scene 1, Puzzle 34 tile #14",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/34",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000023.png",
-  "name": "Scene 1 Puzzle 4"
+  "name": "Scene 1 Puzzle 34 tile 14"
 }

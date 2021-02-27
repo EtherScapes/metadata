@@ -1,6 +1,28 @@
 {
-  "description": "EtherScape Scene 1, Puzzle 2",
-  "external_url": "https://etherscapes.io/scene/1/2",
+  "attributes": [
+    {
+      "display_type": "number",
+      "trait_type": "tile_height",
+      "value": 487
+    },
+    {
+      "display_type": "number",
+      "trait_type": "tile_width",
+      "value": 1057
+    },
+    {
+      "display_type": "number",
+      "trait_type": "center_w",
+      "value": 1131.5
+    },
+    {
+      "display_type": "number",
+      "trait_type": "center_h",
+      "value": 835.5
+    }
+  ],
+  "description": "EtherScape Scene 1, Puzzle 32 tile #11",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/32",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000021.png",
-  "name": "Scene 1 Puzzle 2"
+  "name": "Scene 1 Puzzle 32 tile 11"
 }

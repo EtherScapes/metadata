@@ -1,24 +1,28 @@
 {
   "attributes": [
     {
+      "display_type": "number",
       "trait_type": "tile_height",
-      "value": 553
+      "value": 576
     },
     {
+      "display_type": "number",
       "trait_type": "tile_width",
-      "value": 853
+      "value": 533
     },
     {
+      "display_type": "number",
       "trait_type": "center_w",
-      "value": 427.5
+      "value": 267.5
     },
     {
+      "display_type": "number",
       "trait_type": "center_h",
-      "value": 277.5
+      "value": 289.0
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 24 tile #1",
-  "external_url": "https://etherscapes.io/scene/1/24",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/24",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000019.png",
   "name": "Scene 1 Puzzle 24 tile 1"
 }

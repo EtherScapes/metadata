@@ -1,24 +1,28 @@
 {
   "attributes": [
     {
+      "display_type": "number",
       "trait_type": "tile_height",
-      "value": 560
+      "value": 367
     },
     {
+      "display_type": "number",
       "trait_type": "tile_width",
-      "value": 688
+      "value": 626
     },
     {
+      "display_type": "number",
       "trait_type": "center_w",
-      "value": 963.0
+      "value": 929.0
     },
     {
+      "display_type": "number",
       "trait_type": "center_h",
-      "value": 800.0
+      "value": 395.5
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 29 tile #6",
-  "external_url": "https://etherscapes.io/scene/1/29",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/29",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000001e.png",
   "name": "Scene 1 Puzzle 29 tile 6"
 }

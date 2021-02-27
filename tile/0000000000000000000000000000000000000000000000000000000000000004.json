@@ -1,24 +1,28 @@
 {
   "attributes": [
     {
+      "display_type": "number",
       "trait_type": "tile_height",
-      "value": 724
+      "value": 435
     },
     {
+      "display_type": "number",
       "trait_type": "tile_width",
-      "value": 737
+      "value": 987
     },
     {
+      "display_type": "number",
       "trait_type": "center_w",
-      "value": 369.5
+      "value": 1425.5
     },
     {
+      "display_type": "number",
       "trait_type": "center_h",
-      "value": 717.0
+      "value": 218.5
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 3 tile #5",
-  "external_url": "https://etherscapes.io/scene/1/3",
+  "description": "EtherScape Scene 1, Puzzle 3 tile #4",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000004.png",
-  "name": "Scene 1 Puzzle 3 tile 5"
+  "name": "Scene 1 Puzzle 3 tile 4"
 }

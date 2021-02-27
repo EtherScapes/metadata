@@ -1,24 +1,28 @@
 {
   "attributes": [
     {
+      "display_type": "number",
       "trait_type": "tile_height",
-      "value": 560
+      "value": 284
     },
     {
+      "display_type": "number",
       "trait_type": "tile_width",
-      "value": 688
+      "value": 707
     },
     {
+      "display_type": "number",
       "trait_type": "center_w",
-      "value": 963.0
+      "value": 354.5
     },
     {
+      "display_type": "number",
       "trait_type": "center_h",
-      "value": 800.0
+      "value": 937.0
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 23 tile #6",
-  "external_url": "https://etherscapes.io/scene/1/23",
+  "description": "EtherScape Scene 1, Puzzle 23 tile #15",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/23",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000018.png",
-  "name": "Scene 1 Puzzle 23 tile 6"
+  "name": "Scene 1 Puzzle 23 tile 15"
 }

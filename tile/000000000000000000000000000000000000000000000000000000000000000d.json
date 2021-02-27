@@ -1,24 +1,28 @@
 {
   "attributes": [
     {
+      "display_type": "number",
       "trait_type": "tile_height",
-      "value": 558
+      "value": 576
     },
     {
+      "display_type": "number",
       "trait_type": "tile_width",
-      "value": 855
+      "value": 533
     },
     {
+      "display_type": "number",
       "trait_type": "center_w",
-      "value": 428.5
+      "value": 267.5
     },
     {
+      "display_type": "number",
       "trait_type": "center_h",
-      "value": 280.0
+      "value": 289.0
     }
   ],
   "description": "EtherScape Scene 1, Puzzle 12 tile #1",
-  "external_url": "https://etherscapes.io/scene/1/12",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/12",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000000d.png",
   "name": "Scene 1 Puzzle 12 tile 1"
 }
