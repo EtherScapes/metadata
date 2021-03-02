@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 361
+      "value": 292
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 574
+      "value": 734
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 289.0
+      "value": 368.0
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 181.5
+      "value": 147.0
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 0 tile #1",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/0",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/1",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000001.png",
-  "name": "Scene 1 Puzzle 0 tile 1"
+  "name": "genesis: striking bracing"
 }

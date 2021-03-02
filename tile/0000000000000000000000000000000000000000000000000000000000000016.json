@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 550
+      "value": 538
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 793
+      "value": 881
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1440.5
+      "value": 441.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 771.0
+      "value": 810.0
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 21 tile #12",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/21",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/2",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000016.png",
-  "name": "Scene 1 Puzzle 21 tile 12"
+  "name": "genesis: fruitful veterinaries"
 }

@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 359
+      "value": 741
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 349
+      "value": 1539
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 175.5
+      "value": 797.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 182.5
+      "value": 432.5
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 3 tile #4",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/1",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000004.png",
-  "name": "Scene 1 Puzzle 3 tile 4"
+  "name": "genesis: strongest dieters"
 }

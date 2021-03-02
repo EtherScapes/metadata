@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 397
+      "value": 645
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 1081
+      "value": 903
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1103.5
+      "value": 1361.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 604.5
+      "value": 663.5
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 20 tile #11",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/20",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/2",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000015.png",
-  "name": "Scene 1 Puzzle 20 tile 11"
+  "name": "genesis: bright necessitation"
 }

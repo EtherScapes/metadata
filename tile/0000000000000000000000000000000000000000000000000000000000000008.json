@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 577
+      "value": 780
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 863
+      "value": 848
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 432.5
+      "value": 1495.0
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 627.5
+      "value": 689.0
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 7 tile #10",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/7",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/1",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000008.png",
-  "name": "Scene 1 Puzzle 7 tile 10"
+  "name": "genesis: brotherly grump"
 }

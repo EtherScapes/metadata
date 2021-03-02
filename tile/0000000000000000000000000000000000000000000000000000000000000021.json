@@ -21,8 +21,8 @@
       "value": 604.5
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 32 tile #11",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/32",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000021.png",
-  "name": "Scene 1 Puzzle 32 tile 11"
+  "name": "genesis: useable dhobis"
 }

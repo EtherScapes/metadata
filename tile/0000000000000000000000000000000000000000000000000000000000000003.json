@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 371
+      "value": 521
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 681
+      "value": 758
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1578.5
+      "value": 1540.0
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 186.5
+      "value": 261.5
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 2 tile #3",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/2",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/1",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000003.png",
-  "name": "Scene 1 Puzzle 2 tile 3"
+  "name": "genesis: toll-free indictments"
 }

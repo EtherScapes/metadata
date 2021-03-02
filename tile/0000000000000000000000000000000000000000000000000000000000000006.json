@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 1023
+      "value": 410
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 571
+      "value": 860
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1633.5
+      "value": 1178.0
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 548.5
+      "value": 317.0
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 5 tile #6",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/5",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/1",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000006.png",
-  "name": "Scene 1 Puzzle 5 tile 6"
+  "name": "genesis: booming film"
 }

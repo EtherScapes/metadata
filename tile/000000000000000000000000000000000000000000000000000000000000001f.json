@@ -21,8 +21,8 @@
       "value": 642.5
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 30 tile #8",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/30",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000001f.png",
-  "name": "Scene 1 Puzzle 30 tile 8"
+  "name": "genesis: consistent subcaste"
 }

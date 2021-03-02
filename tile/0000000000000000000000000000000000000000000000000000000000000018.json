@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 375
+      "value": 385
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 669
+      "value": 1015
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1380.5
+      "value": 1411.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 806.5
+      "value": 886.5
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 23 tile #14",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/23",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/2",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000018.png",
-  "name": "Scene 1 Puzzle 23 tile 14"
+  "name": "genesis: dazzling scramblers"
 }

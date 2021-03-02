@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 531
+      "value": 572
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 967
+      "value": 1480
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 852.5
+      "value": 816.0
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 813.5
+      "value": 793.0
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 10 tile #13",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/10",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/1",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000000b.png",
-  "name": "Scene 1 Puzzle 10 tile 13"
+  "name": "genesis: swanky munitions"
 }

@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 538
+      "value": 550
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 881
+      "value": 793
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 441.5
+      "value": 1440.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 810.0
+      "value": 771.0
     }
   ],
-  "description": "EtherScape Scene 1, Puzzle 9 tile #12",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/9",
+  "description": "An EtherScapes puzzle shard from the genesis rift.",
+  "external_url": "https://etherscapes.io/scene/1/puzzle/1",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000000a.png",
-  "name": "Scene 1 Puzzle 9 tile 12"
+  "name": "genesis: bullish touters"
 }
