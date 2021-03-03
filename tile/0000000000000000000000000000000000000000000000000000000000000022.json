@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 550
+      "value": 538
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 793
+      "value": 881
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1440.5
+      "value": 441.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 771.0
+      "value": 810.0
     }
   ],
   "description": "An EtherScapes puzzle shard from the genesis rift.",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
+  "external_url": "https://etherscapes.io/#/scene/1/puzzle/3",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000022.png",
-  "name": "genesis: ambitious tyne"
+  "name": "genesis: frugal transmuter"
 }

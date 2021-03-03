@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 235
+      "value": 449
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 1117
+      "value": 1136
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 1055.5
+      "value": 932.0
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 118.5
+      "value": 225.5
     }
   ],
   "description": "An EtherScapes puzzle shard from the genesis rift.",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
+  "external_url": "https://etherscapes.io/#/scene/1/puzzle/3",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000001a.png",
-  "name": "genesis: luckier transudation"
+  "name": "genesis: well-managed turbos"
 }

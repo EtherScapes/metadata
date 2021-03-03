@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 572
+      "value": 531
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 1480
+      "value": 967
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 816.0
+      "value": 852.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 793.0
+      "value": 813.5
     }
   ],
   "description": "An EtherScapes puzzle shard from the genesis rift.",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
+  "external_url": "https://etherscapes.io/#/scene/1/puzzle/3",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/0000000000000000000000000000000000000000000000000000000000000023.png",
-  "name": "genesis: top-notch pollywogs"
+  "name": "genesis: zippy bug-hunter"
 }

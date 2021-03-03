@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 741
+      "value": 359
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 1539
+      "value": 349
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 797.5
+      "value": 175.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 432.5
+      "value": 182.5
     }
   ],
   "description": "An EtherScapes puzzle shard from the genesis rift.",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
+  "external_url": "https://etherscapes.io/#/scene/1/puzzle/3",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000001c.png",
-  "name": "genesis: meaningful schizophrenic"
+  "name": "genesis: divine gallopade"
 }

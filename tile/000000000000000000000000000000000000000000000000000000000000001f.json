@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 873
+      "value": 605
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 508
+      "value": 851
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 255.0
+      "value": 1075.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 642.5
+      "value": 362.5
     }
   ],
   "description": "An EtherScapes puzzle shard from the genesis rift.",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
+  "external_url": "https://etherscapes.io/#/scene/1/puzzle/3",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000001f.png",
-  "name": "genesis: consistent subcaste"
+  "name": "genesis: sensational auckland"
 }

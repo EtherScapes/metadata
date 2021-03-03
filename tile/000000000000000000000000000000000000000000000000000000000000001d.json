@@ -3,26 +3,26 @@
     {
       "display_type": "number",
       "trait_type": "tile_height",
-      "value": 627
+      "value": 455
     },
     {
       "display_type": "number",
       "trait_type": "tile_width",
-      "value": 939
+      "value": 913
     },
     {
       "display_type": "number",
       "trait_type": "center_w",
-      "value": 843.5
+      "value": 510.5
     },
     {
       "display_type": "number",
       "trait_type": "center_h",
-      "value": 411.5
+      "value": 264.5
     }
   ],
   "description": "An EtherScapes puzzle shard from the genesis rift.",
-  "external_url": "https://etherscapes.io/scene/1/puzzle/3",
+  "external_url": "https://etherscapes.io/#/scene/1/puzzle/3",
   "image": "https://raw.githubusercontent.com/EtherScapes/metadata/master/tile/000000000000000000000000000000000000000000000000000000000000001d.png",
-  "name": "genesis: graceful punk"
+  "name": "genesis: revolutionary piranhas"
 }
